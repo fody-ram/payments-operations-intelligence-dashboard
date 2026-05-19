@@ -35,3 +35,13 @@ This project simulates real **Operations Intelligence** work at a payments compa
 - Data quality awareness and business translation
 
 ---
+
+
+<img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/ddf9797e-5a62-4da8-9eca-dbaf4a295483" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5dbb7d9e-2f7a-40a8-ad37-216eb56d3379" />
+<img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/44fea8c1-ddbf-4de8-9a22-ab2e1646ba4b" />
+<img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/4d3ec4b4-3acf-4e7a-9558-39c5e7a5dd89" />
+<img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/d161bc36-93b4-4316-af50-130b52a1d916" />
+
+
+
